@@ -1,0 +1,14 @@
+./cocoa/Scintilla/Scintilla.xcodeproj/project.xcworkspace/xcuserdata/semyonc.xcuserdatad/UserInterfaceState.xcuserstate
+./cocoa/ScintillaFramework/ScintillaFramework.xcodeproj/project.xcworkspace/xcuserdata/semyonc.xcuserdatad/UserInterfaceState.xcuserstate
+./cocoa/ScintillaTest/ScintillaTest.xcodeproj/project.xcworkspace/xcuserdata/semyonc.xcuserdatad/UserInterfaceState.xcuserstate
+./ios/ScintillaContainer/ScintillaContainer.xcodeproj/project.xcworkspace/xcuserdata/semyonc.xcuserdatad/UserInterfaceState.xcuserstate
+./ios/ScintillaLib/ScintillaLib.xcodeproj/project.xcworkspace/xcuserdata/semyonc.xcuserdatad/UserInterfaceState.xcuserstate
+build
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*~
+*~.nib
+*~.xib 
+.DS_Store 
+xcuserdata/
